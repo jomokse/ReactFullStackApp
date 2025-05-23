@@ -1,6 +1,6 @@
 # 🐾 React Full Stack App
 
-This is my first modern full stack web application built with React (TypeScript), .NET 9 (C#), Entity Framework Core, SQLite, TailwindCSS, and open APIs. The app allows users to view and add data to SQLite database, calculate Fibonacci numbers, weather forecasts with interactive graphs and display random dog images.
+This is my first modern full stack web application built with React (TypeScript), .NET 9 (C#), Entity Framework Core, SQLite, TailwindCSS, and open APIs. The app allows users to create, read, update and delete (CRUD) data to SQLite database, view weather forecasts with interactive graphs, calculate Fibonacci numbers and display random dog images.
 
 ---
 
