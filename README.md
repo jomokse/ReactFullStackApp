@@ -6,8 +6,10 @@ This is a full stack web application built with React (TypeScript), .NET 9 (C#),
 
 ## 📸 Screenshots
 
-### Forecast Page
+### Forecast Page example
 ![Forecast Screenshot](./screenshots/forecast.png)
+
+<img src="./screenshots/forecast.png" alt="Forecast sample" width="50%" />
 
 ---
 
