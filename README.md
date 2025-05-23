@@ -6,7 +6,7 @@ This is my first modern full stack web application built with React (TypeScript)
 
 ## 📸 Screenshots
 
-### Forecast Page example
+### This is an example of Weather Forecast Page
 <img src="./screenshots/forecast.png" alt="Forecast sample" width="50%" />
 
 ---
