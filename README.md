@@ -46,26 +46,26 @@ This is a full stack web application built with React (TypeScript), .NET 9 (C#),
 
 ## 🚀 Installation & Setup
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/fullstack-dog-app.git
 cd fullstack-dog-app
 
-### 2. Install frontend dependencies
+2. Install frontend dependencies
 
 cd client
 npm install
 
-### 3. Install backend dependencies
+3. Install backend dependencies
 
 cd ../server
 dotnet restore
 
-### 4. Set up the database
+4. Set up the database
 
 dotnet ef database update
 
-### 5. Run the application
+5. Run the application
 
 Backend
 
