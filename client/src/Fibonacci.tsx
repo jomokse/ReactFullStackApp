@@ -1,5 +1,6 @@
 import { useState } from 'react';
 
+// Fibonacci component calculates the Fibonacci sequence up to the given number (0-99).
 function Fibonacci() {
   const [number, setNumber] = useState('');
   const [result, setResult] = useState<number[]>([]);
